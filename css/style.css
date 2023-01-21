@@ -1,0 +1,9 @@
+.header{
+background-color: gray;
+}
+.main{
+  background-image: url("../images/books.jpg");
+}
+.footer{
+  background-color: aqua;
+}
